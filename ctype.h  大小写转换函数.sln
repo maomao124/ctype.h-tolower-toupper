@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ctype.h  大小写转换函数", "ctype.h  大小写转换函数.vcxproj", "{B1EA9F8C-C61F-4545-A3FC-11FF7C240D0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1EA9F8C-C61F-4545-A3FC-11FF7C240D0E}.Debug|x64.ActiveCfg = Debug|x64
+		{B1EA9F8C-C61F-4545-A3FC-11FF7C240D0E}.Debug|x64.Build.0 = Debug|x64
+		{B1EA9F8C-C61F-4545-A3FC-11FF7C240D0E}.Debug|x86.ActiveCfg = Debug|Win32
+		{B1EA9F8C-C61F-4545-A3FC-11FF7C240D0E}.Debug|x86.Build.0 = Debug|Win32
+		{B1EA9F8C-C61F-4545-A3FC-11FF7C240D0E}.Release|x64.ActiveCfg = Release|x64
+		{B1EA9F8C-C61F-4545-A3FC-11FF7C240D0E}.Release|x64.Build.0 = Release|x64
+		{B1EA9F8C-C61F-4545-A3FC-11FF7C240D0E}.Release|x86.ActiveCfg = Release|Win32
+		{B1EA9F8C-C61F-4545-A3FC-11FF7C240D0E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EE20AEA-46DB-423E-B08E-272CC2A875F0}
+	EndGlobalSection
+EndGlobal
